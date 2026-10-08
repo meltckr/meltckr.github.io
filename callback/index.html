@@ -1,0 +1,8 @@
+<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex"><title>Tesla authorization</title>
+<style>body{font:16px system-ui;max-width:40em;margin:3em auto;padding:0 1em}code{word-break:break-all;background:#eee;padding:.2em}</style>
+<h1>Tesla authorization</h1><p id="m">Reading response…</p><p><code id="c"></code></p>
+<script>
+const q=new URLSearchParams(location.search);const c=q.get('code'),e=q.get('error');
+document.getElementById('m').textContent=c?'Approved. Copy this whole page URL (or the code below) back into the chat:':(e?('Error: '+e+' '+(q.get('error_description')||'')):'No code in URL.');
+if(c)document.getElementById('c').textContent=c;
+</script>
