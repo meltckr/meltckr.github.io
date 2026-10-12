@@ -1,5 +1,5 @@
 {
-  "releaseId": "operator-permission-to-run-20261012-v4",
+  "releaseId": "operator-permission-to-run-20261012-art-v2",
   "files": [
     {
       "path": "assets/audio-player/avc-audio-player.js",
@@ -32,28 +32,52 @@
       "active": true
     },
     {
+      "path": "assets/dealership-showroom-desktop-v2.webp",
+      "bytes": 59946,
+      "sha256": "00ce5a9dd6eb80e3705a4a68d933bde8958f7ec10c489ebc5e35d321d4dcd357",
+      "active": true
+    },
+    {
+      "path": "assets/dealership-showroom-mobile-v2.webp",
+      "bytes": 47580,
+      "sha256": "36b1e12e3600077ced3d2ab7f58eac2eea13c165166d356281e31e15f61388c2",
+      "active": true
+    },
+    {
+      "path": "assets/og-permission-to-run-dealership-v2.png",
+      "bytes": 540598,
+      "sha256": "d96521635f300792694c0cdd7377b1debc4c261a8080844331fcbe698d784ff7",
+      "active": true
+    },
+    {
       "path": "assets/og-permission-to-run-v1.png",
       "bytes": 528714,
       "sha256": "847cca4ca35994e0394414fd2399c2dfb6de150cf31b3dbef63ed6dab8ae02f4",
-      "active": true
+      "active": false
     },
     {
       "path": "assets/operator-room-desktop-v1.webp",
       "bytes": 48528,
       "sha256": "0c1fd325b6fb317316e5dc014fb57f0ff3dbc0ae037c46054a4e0fe054fba9eb",
-      "active": true
+      "active": false
     },
     {
       "path": "assets/operator-room-mobile-v1.webp",
       "bytes": 28138,
       "sha256": "96ee19db86b605d7600176a8fba6a882b532dae8c8ae62f1f85f42fbb60b0796",
+      "active": false
+    },
+    {
+      "path": "assets/share-permission-to-run-dealership-v2.png",
+      "bytes": 760837,
+      "sha256": "c09bf52a8e0e985a243d5c9c3f47bf78256692b7f7dfa576299f357741a7dcf7",
       "active": true
     },
     {
       "path": "assets/share-permission-to-run-v1.png",
       "bytes": 764386,
       "sha256": "7f72325d91ab1468ab49188b4b2bb67f5117f63ef19f7fad27c3e4654d2d034f",
-      "active": true
+      "active": false
     },
     {
       "path": "audio/operator-permission-to-run-v2.mp3",
@@ -87,20 +111,20 @@
     },
     {
       "path": "content/release.json",
-      "bytes": 969,
-      "sha256": "a11b0da2c4dbd40383c40e2395b49a18973cfda449f4046afce1306ba44e24c6",
+      "bytes": 1608,
+      "sha256": "8cd634c9236bd7e94779912291c75766a4caf86aa6b9e7d01182b66bacf8ac3a",
       "active": true
     },
     {
       "path": "index.html",
-      "bytes": 12240,
-      "sha256": "76eeafac64b12f5dd24157a89af01979edda4691488aa2669018e2cb0fbeabb6",
+      "bytes": 16091,
+      "sha256": "54f3ca90a4583fd19684f5bbc6a4aeb3d23bc1294a0468b3a0a31e67f04a5e39",
       "active": true
     },
     {
       "path": "operator.css",
-      "bytes": 2337,
-      "sha256": "ffebb7b7650580bfb5d091c59a8cb42447bbfaf0ef452c936e6ab0a3c71581fc",
+      "bytes": 7459,
+      "sha256": "452197cdc563a0d399fb8a4660a3beba27e6f7e676a6809dfd166683a8bb0d76",
       "active": true
     },
     {

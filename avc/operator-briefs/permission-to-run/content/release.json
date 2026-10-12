@@ -1,13 +1,13 @@
 {
   "edition": "AVC Operator Brief \u2014 Permission to Run",
-  "releaseId": "operator-permission-to-run-20261012-v4",
+  "releaseId": "operator-permission-to-run-20261012-art-v2",
   "canonicalUrl": "https://meltckr.github.io/avc/operator-briefs/permission-to-run/",
-  "visibleStamp": "Edition updated \u00b7 Oct 12, 2026 \u00b7 1:42 PM Arizona",
-  "assembledAt": "2026-10-12T13:42:23.244881-07:00",
+  "visibleStamp": "Edition updated \u00b7 Oct 12, 2026 \u00b7 2:47 PM Arizona",
+  "assembledAt": "2026-10-12T21:47:22.521416+00:00",
   "illustrativeScenarios": true,
   "shareArt": {
-    "og": "assets/og-permission-to-run-v1.png",
-    "square": "assets/share-permission-to-run-v1.png",
+    "og": "assets/og-permission-to-run-dealership-v2.png",
+    "square": "assets/share-permission-to-run-dealership-v2.png",
     "layoutTool": "Figma",
     "renderTool": "Blender"
   },
@@ -22,5 +22,19 @@
   "glanceWordCount": 29,
   "retainedPriorAudioFiles": [
     "audio/operator-permission-to-run-v2.mp3"
+  ],
+  "artwork": {
+    "heroDesktop": "assets/dealership-showroom-desktop-v2.webp",
+    "heroMobile": "assets/dealership-showroom-mobile-v2.webp",
+    "scene": "Original illustrative 3D dealership; no real location or stock vehicle model",
+    "renderer": "Blender 5.2.2 LTS / Cycles CPU / 64 samples",
+    "diagrams": "Accessible HTML/CSS with decorative SVG icons",
+    "scenarioPreserved": true
+  },
+  "retainedPreviousArtworkFiles": [
+    "assets/operator-room-desktop-v1.webp",
+    "assets/operator-room-mobile-v1.webp",
+    "assets/og-permission-to-run-v1.png",
+    "assets/share-permission-to-run-v1.png"
   ]
 }
