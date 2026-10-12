@@ -1,13 +1,15 @@
-Consider a hypothetical close at one of your dealerships. A customer has chosen a vehicle. Sales is waiting on a trade decision. The desk is handling an exception. Finance needs a complete handoff. Each person is doing a part of the job, and the customer is still waiting.
+This is a hypothetical dealership deal. Every number and event is invented for this example.
 
-That pause gives ownership a useful place to look. Who owns the next step? What can that person decide? What information needs to move with the work?
+At ten minutes past seven on Friday evening, finance and insurance receives a worksheet showing eighteen thousand dollars for a trade. The desk appraised the trade at seventeen thousand dollars. The salesperson has already quoted eighteen thousand dollars. Under this example's store rule, the desk can approve seventeen thousand five hundred dollars. The customer's quoted figure needs the general manager's approval.
 
-Permission gives people room to exercise judgment inside clear boundaries. The people around them need complementary roles and enough shared context to carry the decision forward. Patience gives the group time to learn the routine and correct it through actual use.
+The general manager is away. The desk asks for help with a trade, but leaves out the figures. The answer arrives eighteen minutes later. The revised worksheet takes another six minutes. The customer's hold lasts twenty-four minutes.
 
-Now carry the same situation to another store. The workload is different. The original manager is away. The next shift still needs to understand the customer commitment, the authority available and the exception route.
+Assume every other deal figure stays fixed. The extra one thousand dollars for the trade comes out of the expected gross profit. The customer's waiting time has no dollar cost assigned in this example.
 
-That is where an idea begins to show whether the organization has learned it. A completed deal is one result to examine. The way the team completed it shows more about what can be repeated.
+Before Monday opening, write the approval rule and name a backup for the general manager. The same desk manager follows the request until finance accepts the approved worksheet.
 
-As the group moves through its next busy period, follow one exception and one customer promise from the first conversation through delivery. Watch where responsibility stays clear, where context gets lost and what the next person needs to ask again.
+Use a message the manager can answer. The trade appraisal is seventeen thousand dollars. The customer was quoted eighteen thousand dollars. My limit is seventeen thousand five hundred dollars. Please approve the customer's quoted figure or return a figure I can give them. Finance is waiting. Please answer within five minutes.
 
-The ownership test is whether that next person can carry the same promise forward.
+Five minutes is a trial target. Measure actual reply times. Each over-limit worksheet should carry its written approval. Count worksheets that finance sends back. Count each deal once, and record why the worksheet came back.
+
+On Monday, review the first week's reply times with the desk manager. Open one packet finance sent back and fix its missing field before the next customer arrives.

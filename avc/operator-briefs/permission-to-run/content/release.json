@@ -1,9 +1,9 @@
 {
   "edition": "AVC Operator Brief \u2014 Permission to Run",
-  "releaseId": "operator-permission-to-run-20261012-v2",
+  "releaseId": "operator-permission-to-run-20261012-v3",
   "canonicalUrl": "https://meltckr.github.io/avc/operator-briefs/permission-to-run/",
-  "visibleStamp": "Edition updated \u00b7 Oct 12, 2026 \u00b7 12:37 PM Arizona",
-  "assembledAt": "2026-10-12T19:37:24.816499+00:00",
+  "visibleStamp": "Edition updated \u00b7 Oct 12, 2026 \u00b7 1:27 PM Arizona",
+  "assembledAt": "2026-10-12T20:29:28.754941+00:00",
   "illustrativeScenarios": true,
   "shareArt": {
     "og": "assets/og-permission-to-run-v1.png",
@@ -12,10 +12,15 @@
     "renderTool": "Blender"
   },
   "audio": {
-    "file": "audio/operator-permission-to-run-v2.mp3",
+    "file": "audio/operator-permission-to-run-v4.mp3",
     "transcript": "content/audio-brief-transcript.txt",
     "productionRecord": "content/audio-production.json",
     "humanListeningApprovalClaimed": false
   },
-  "readTimeEstimateMinutes": 7
+  "readTimeEstimateMinutes": 4,
+  "contentRevision": "Worked dealership handoff",
+  "glanceWordCount": 29,
+  "retainedPriorAudioFiles": [
+    "audio/operator-permission-to-run-v2.mp3"
+  ]
 }

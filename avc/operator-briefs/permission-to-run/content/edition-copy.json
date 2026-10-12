@@ -1,248 +1,134 @@
 {
   "title": "Permission to Run",
   "subtitle": "Across every store.",
-  "description": "How clear authority, complementary roles and patience carry a good idea across a dealership group.",
-  "dek": "A customer can be ready while the organization is still deciding. The ownership work is to give people clear authority, connect their roles and hold the standard through the handoff.",
+  "description": "A worked hypothetical dealership handoff: a trade exception stalls a Friday deal. Name the approver, send the figures and measure the wait.",
+  "dek": "A Friday-night deal waits on an unsigned trade exception. Put the approval limit and the handoff in writing before the next customer sits down.",
   "glance": [
     [
-      "The situation",
-      "A willing customer reaches a stalled handoff.",
-      "In the hypothetical example below, sales, the desk and finance each need the next step to be clear."
+      "Hold",
+      "24 minutes",
+      "Hypothetical Friday deal."
     ],
     [
-      "The pattern",
-      "Individual capability needs a connected process.",
-      "An experienced person can move one deal. Clear roles help the work continue when that person steps away."
+      "Gap",
+      "$1,000",
+      "Above the assumed appraisal."
     ],
     [
-      "The system",
-      "Permission, people and patience reinforce one another.",
-      "Authority needs boundaries. Different strengths need useful connections. A new routine needs time to be learned."
+      "Fix",
+      "Name the approver",
+      "GM or assigned backup."
     ],
     [
-      "Ownership read",
-      "Judge what carries across stores and shifts.",
-      "Watch whether the next person can keep the same customer promise without rebuilding the decision."
+      "Monday",
+      "Time the reply",
+      "Suggested target: five minutes."
     ]
   ],
   "ownership": {
-    "title": "The customer sees one business. The work crosses several desks.",
+    "title": "Someone has to approve the $18,000.",
     "paragraphs": [
-      "Consider a hypothetical Friday close at a dealership. The customer has chosen a vehicle. Sales is waiting on a trade decision, the desk is working through an exception, and finance needs a complete handoff. Each person is doing a part of the job. The customer is still waiting.",
-      "The useful ownership question is where the work has lost its next owner. Clear authority gives someone room to move. Complementary roles make that judgment useful to the next person. Patience lets the group learn the routine and correct it through actual use."
+      "The salesperson has promised more than the desk can approve. F&I is holding the worksheet. The GM has the authority, but the request hasn't told the GM what to decide.",
+      "Permission, people and patience become useful when the desk has a written dollar limit and an approver who answers. Give the rule a week of live deals, then fix the part that still holds customers."
     ]
   },
   "rail": [
     [
-      "The situation",
-      "The handoff before the close",
-      "A hypothetical dealership example makes the operating question visible."
+      "Worked hypothetical",
+      "All figures are assumed",
+      "The deal, its times and its costs are invented for this example."
     ],
     [
-      "The pattern",
-      "One customer promise",
-      "Sales, the desk, finance and delivery each carry a part of it."
-    ],
-    [
-      "The test",
-      "The next store and shift",
-      "A useful routine should be understandable beyond the person who introduced it."
-    ],
-    [
-      "Reader note",
-      "An operator perspective",
-      "The scenarios are illustrative. The questions are designed for a group with more than one location."
+      "Suggested targets",
+      "Measure your store",
+      "Set approval limits using your deal economics and record actual reply times."
     ]
   ],
-  "situation": {
-    "title": "The handoff before the close",
+  "scenario": {
+    "title": "Friday, 7:10 p.m.",
+    "label": "Worked hypothetical · Every event and figure is invented",
     "paragraphs": [
-      "In that Friday example, the sales associate can explain what the customer wants, but needs a clear route for the exception. The desk needs to know what has already been agreed. Finance needs the same information in a form it can use. Delivery needs to know which promises still require follow-through.",
-      "The pause reveals how the roles connect. A decision can be sensible at one desk and incomplete for the next. Ownership can follow the work from the first commitment to the final handoff and see where responsibility becomes uncertain."
+      "F&I receives a worksheet showing $18,000 for the customer's trade. The desk appraised it at $17,000. The salesperson has already quoted $18,000. Under this example's store rule, the desk manager can add $500 to the appraisal. The remaining $500 needs the GM's approval.",
+      "The GM is off-site. The desk sends a message: \"Need you on a trade.\" It leaves out the figures. Approval arrives at 7:28. The desk corrects the worksheet, and F&I can resume at 7:34. The deal has waited 24 minutes."
     ]
   },
-  "context": {
-    "title": "Permission needs enough structure to travel",
+  "cost": {
+    "title": "What the hold costs in this example",
     "paragraphs": [
-      "A capable store leader often carries context that other people cannot see: which exceptions need escalation, where another department is stretched, and which customer commitments require care. Giving that leader room can help the store move. Making the reasoning visible gives the rest of the organization something it can learn.",
-      "Across a group, the practical distinction is between a routine that depends on one person’s memory and one whose purpose and boundaries another person can explain. The owner can test that distinction by listening to how people describe the same handoff at different locations."
+      "Assume every other deal figure stays fixed and the extra trade allowance comes out of expected gross profit. The $1,000 exception uses $1,000 of that gross. The delay also takes 24 minutes from the buyer and the staff. This example assigns no payroll cost or lost-sale value to those minutes."
     ],
     "cards": [
       [
-        "Authority",
-        "The decision has a clear owner.",
-        "People understand what they can decide, where the limits sit and who handles an exception."
+        "$1,000",
+        "Assumed reduction in expected gross profit"
       ],
       [
-        "Shared context",
-        "The next person receives the reason.",
-        "A handoff carries the customer’s need, the commitment already made and what remains open."
+        "24 min",
+        "Invented hold before F&I can resume"
       ]
-    ]
-  },
-  "lens": {
-    "title": "The conditions around the work matter",
-    "paragraphs": [
-      "The process needs a purpose people can explain, authority they can use and connections that support the next step. Those conditions make individual judgment more useful to the group.",
-      "For ownership, the revealing moment is often the handoff: does the next person inherit a clear job, or have to reconstruct the conversation?"
-    ]
-  },
-  "progress": {
-    "title": "What a better close would show",
-    "paragraphs": [
-      "In a revised version of the same hypothetical situation, the associate knows the exception route before reaching the desk. The desk makes the decision within agreed authority. Finance receives the complete context. The delivery team can explain the customer’s remaining commitments.",
-      "What to look for is fewer repeated explanations, a clear next owner and promises that remain intact through the change in personnel. A completed deal is one result to examine. How the store completed it tells ownership more about what can be repeated.",
-      "That is where the original idea becomes useful across locations. People need to understand why the handoff works well enough to preserve its purpose in a different store."
     ]
   },
   "parts": [
     [
-      "Ownership gives the idea room.",
-      "The owner defines the purpose, the standards that stay fixed and the authority available to pursue them. People can act with a clear understanding of what they are carrying."
+      "Salesperson",
+      "Quote the approved trade figure. If a different figure has already been promised, tell the desk exactly what the customer heard."
     ],
     [
-      "The store leader makes judgment visible.",
-      "The leader explains how decisions are made and develops others who can carry that reasoning. A routine becomes easier to transfer when its purpose is understood."
+      "Desk manager",
+      "Check the appraisal against the promised figure. Send the over-limit request to the named approver. Stay with the deal until F&I confirms receipt of the approved worksheet."
     ],
     [
-      "Sales and service bring the customer’s need into view.",
-      "The people closest to the customer supply context the next department needs. Their observations help the group keep its promise grounded in the actual situation."
+      "GM or assigned backup",
+      "Approve the amount or return a figure the desk can take to the customer. Put the answer in writing. Name the backup before leaving the store."
     ],
     [
-      "The desk and finance connect the decisions.",
-      "Each handoff preserves what has been agreed, identifies what remains open and names the person responsible for resolving it."
-    ],
-    [
-      "Support gives the work capacity.",
-      "Staffing, systems, inventory information and training affect whether people can carry out the routine. A good idea needs those connections to hold through a busy day."
+      "F&I manager",
+      "Read back the approved trade figure when accepting the worksheet. Flag any mismatch before preparing the customer's final paperwork."
     ]
   ],
-  "second_proof": {
-    "title": "The second proof is the next store",
+  "handoff": {
+    "title": "Send one message the GM can answer",
+    "label": "Suggested script · Same hypothetical deal",
+    "intro": "At 7:10, the desk manager could send this:",
+    "script": [
+      "Trade appraisal: $17,000. Customer was quoted $18,000. My approval limit is $17,500.",
+      "Please approve $18,000 or return a figure I can take back to the customer. F&I has paused the worksheet. Please answer by 7:15. I'm staying with this deal."
+    ],
+    "replyLabel": "A suggested GM reply",
+    "reply": "Approved at $18,000. I accept the $1,000 difference. Send F&I the revised worksheet with this approval.",
+    "followThrough": "The desk sends both items together. F&I replies with the trade figure it received. The salesperson gives the customer the next update."
+  },
+  "monday": {
+    "title": "Before Monday opening",
     "paragraphs": [
-      "Extend the hypothetical example to another location, with a different mix of experience and a different workload. The original manager is away. The next shift still needs to understand the customer commitment, the authority available and the exception route.",
-      "The local details may change. The purpose of the handoff can remain clear. Ownership can watch whether people adapt the routine while preserving the standards behind it, and whether problems reach someone who can resolve them.",
-      "That is a stronger test of the operating system than a successful day led by the person who built it. It shows what the organization has learned and where it still relies on individual memory."
+      "Have the GM sign a short approval rule. In this example, the desk can approve up to $17,500 on a $17,000 appraisal. The GM or assigned backup approves anything higher. Your store should set its own dollar limits using its deal economics.",
+      "Put the backup's name and contact route beside the rule. If the trial reply deadline passes, the desk calls that person. Keep the request and the answer with the worksheet so the next person can see what was approved."
     ]
   },
-  "framing": [
-    [
-      "Permission",
-      "Authority has a purpose and a boundary.",
-      "People can explain which decisions they own and which need another person’s judgment."
+  "measures": {
+    "title": "Measure the wait next week",
+    "label": "Suggested trial targets · Actual results still need measuring",
+    "cards": [
+      [
+        "Reply time",
+        "Try a five-minute answer.",
+        "Log when the desk sends a complete request and when approval or a revised figure arrives. Report the median wait and the longest wait."
+      ],
+      [
+        "Complete handoff",
+        "Aim for every over-limit worksheet to carry its approval.",
+        "Record the share sent with written approval. Count returned worksheets once per deal; note each missing or conflicting trade figure."
+      ]
     ],
-    [
-      "People",
-      "Different strengths need a useful connection.",
-      "A strong seller, operator and finance team become more useful to one another when context travels with the work."
-    ],
-    [
-      "Patience",
-      "Learning needs room and feedback.",
-      "A new routine exposes gaps. Specific feedback helps the group correct them while retaining the useful parts."
-    ],
-    [
-      "Constructive truth",
-      "One strong close is an opening piece of evidence.",
-      "The next store, busy period and leadership absence reveal whether the same principles are becoming repeatable."
+    "paragraphs": []
+  },
+  "basis": "AVC worked hypothetical. All deal figures, times, approval limits and events are invented assumptions. The response and handoff targets are suggestions to test. No store results or industry statistics are presented.",
+  "transcript": "This is a hypothetical dealership deal. Every number and event is invented for this example.\n\nAt ten minutes past seven on Friday evening, finance and insurance receives a worksheet showing eighteen thousand dollars for a trade. The desk appraised the trade at seventeen thousand dollars. The salesperson has already quoted eighteen thousand dollars. Under this example's store rule, the desk can approve seventeen thousand five hundred dollars. The customer's quoted figure needs the general manager's approval.\n\nThe general manager is away. The desk asks for help with a trade, but leaves out the figures. The answer arrives eighteen minutes later. The revised worksheet takes another six minutes. The customer's hold lasts twenty-four minutes.\n\nAssume every other deal figure stays fixed. The extra one thousand dollars for the trade comes out of the expected gross profit. The customer's waiting time has no dollar cost assigned in this example.\n\nBefore Monday opening, write the approval rule and name a backup for the general manager. The same desk manager follows the request until finance accepts the approved worksheet.\n\nUse a message the manager can answer. The trade appraisal is seventeen thousand dollars. The customer was quoted eighteen thousand dollars. My limit is seventeen thousand five hundred dollars. Please approve the customer's quoted figure or return a figure I can give them. Finance is waiting. Please answer within five minutes.\n\nFive minutes is a trial target. Measure actual reply times. Each over-limit worksheet should carry its written approval. Count worksheets that finance sends back. Count each deal once, and record why the worksheet came back.\n\nOn Monday, review the first week's reply times with the desk manager. Open one packet finance sent back and fix its missing field before the next customer arrives.",
+  "nextWatch": {
+    "title": "Read the slowest request on Monday",
+    "paragraphs": [
+      "Give the desk manager the week's log before opening. Read the slowest request with the person who had to answer it. If that person had no named backup, put the backup on next week's schedule.",
+      "Open one worksheet F&I returned. Fix the missing field with the desk manager, then check the next packet."
     ]
-  ],
-  "signals": [
-    [
-      "Customer experience",
-      "The customer does less retelling.",
-      "Watch whether the customer has to repeat the same need when the next department takes over."
-    ],
-    [
-      "Frontline clarity",
-      "The next step has an owner.",
-      "Listen for a named person and a clear action when a question moves beyond someone’s authority."
-    ],
-    [
-      "Leadership depth",
-      "The routine works through an absence.",
-      "Observe what continues when the manager who introduced the process is away."
-    ],
-    [
-      "Group learning",
-      "Another store can explain the purpose.",
-      "A useful comparison starts with how each location understands the routine, then examines where the work differs."
-    ]
-  ],
-  "strategic": [
-    [
-      "Give the work room to move.",
-      "Permission becomes useful when people understand the result they are responsible for and the judgment they are trusted to exercise."
-    ],
-    [
-      "Connect the roles around the promise.",
-      "The customer commitment is the common thread. Each person should receive enough context to carry it into the next stage."
-    ],
-    [
-      "Stay with the learning.",
-      "A change deserves observation through ordinary work and difficult periods. The owner can keep the standard steady while the group improves the routine."
-    ],
-    [
-      "Look for what carries forward.",
-      "The next person, shift and location provide the evidence. Their ability to continue the work shows how much of the idea the organization now owns."
-    ]
-  ],
-  "pulse": [
-    [
-      "The exception",
-      "Follow one decision that needs escalation.",
-      "Where does it pause, who receives it and what context moves with it?"
-    ],
-    [
-      "The handoff",
-      "Listen to the same customer promise twice.",
-      "Does the next department describe the commitment the same way?"
-    ],
-    [
-      "The follow-through",
-      "Return to the commitments still open.",
-      "Can the next shift identify what remains and who is responsible?"
-    ]
-  ],
-  "group_scan": [
-    [
-      "Across stores",
-      "Compare the purpose before the paperwork.",
-      "The owner can learn where locations share a standard and where different routines have grown around it."
-    ],
-    [
-      "Across departments",
-      "Examine what arrives at the next desk.",
-      "The handoff should make the next job understandable, including the reason behind an exception."
-    ],
-    [
-      "Across shifts",
-      "Watch what survives a change in people.",
-      "Open commitments, their owners and the next action should remain visible."
-    ],
-    [
-      "Across leaders",
-      "Notice who can carry the judgment.",
-      "A leader’s absence can reveal how much context has been taught and how much remains personal knowledge."
-    ],
-    [
-      "During pressure",
-      "Follow the standard through a busy period.",
-      "The point to observe is where the routine holds and where workload changes how people make decisions."
-    ],
-    [
-      "Through learning",
-      "Keep the correction specific.",
-      "A useful review identifies the unclear decision or handoff and what the group learned from it."
-    ]
-  ],
-  "watch": [
-    "Whether people can explain the authority available to them and the route for an exception.",
-    "Whether the customer’s original need reaches the person handling the next stage.",
-    "Whether an open commitment has a named owner through a shift change.",
-    "Whether another location can explain the purpose of a routine it is adopting.",
-    "Whether the work continues when the leader who introduced the routine is away.",
-    "Whether a review produces a specific correction people can use on the next handoff."
-  ],
-  "transcript": "Consider a hypothetical close at one of your dealerships. A customer has chosen a vehicle. Sales is waiting on a trade decision. The desk is handling an exception. Finance needs a complete handoff. Each person is doing a part of the job, and the customer is still waiting.\n\nThat pause gives ownership a useful place to look. Who owns the next step? What can that person decide? What information needs to move with the work?\n\nPermission gives people room to exercise judgment inside clear boundaries. The people around them need complementary roles and enough shared context to carry the decision forward. Patience gives the group time to learn the routine and correct it through actual use.\n\nNow carry the same situation to another store. The workload is different. The original manager is away. The next shift still needs to understand the customer commitment, the authority available and the exception route.\n\nThat is where an idea begins to show whether the organization has learned it. A completed deal is one result to examine. The way the team completed it shows more about what can be repeated.\n\nAs the group moves through its next busy period, follow one exception and one customer promise from the first conversation through delivery. Watch where responsibility stays clear, where context gets lost and what the next person needs to ask again.\n\nThe ownership test is whether that next person can carry the same promise forward."
+  }
 }

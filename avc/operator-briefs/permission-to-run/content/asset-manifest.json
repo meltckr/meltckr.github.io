@@ -1,90 +1,113 @@
 {
-  "releaseId": "operator-permission-to-run-20261012-v2",
+  "releaseId": "operator-permission-to-run-20261012-v3",
   "files": [
     {
       "path": "assets/audio-player/avc-audio-player.js",
       "bytes": 15709,
-      "sha256": "f7d8a9cb0acf271241b4c9ee55683e88bf0f2e25503a4e7a2655537d6e440c16"
+      "sha256": "f7d8a9cb0acf271241b4c9ee55683e88bf0f2e25503a4e7a2655537d6e440c16",
+      "active": true
     },
     {
       "path": "assets/audio-player/player-utils.mjs",
       "bytes": 748,
-      "sha256": "fbf4d7ddfdcb301341564811dc1ad16847b03e7374e2de52389b2b181e01666e"
+      "sha256": "fbf4d7ddfdcb301341564811dc1ad16847b03e7374e2de52389b2b181e01666e",
+      "active": true
     },
     {
       "path": "assets/brand-footer.svg",
       "bytes": 601,
-      "sha256": "f4c2ec7d7b34bfbe12e17d9436d452abea279e1b617d9d6ba49ecfaea0080c5c"
+      "sha256": "f4c2ec7d7b34bfbe12e17d9436d452abea279e1b617d9d6ba49ecfaea0080c5c",
+      "active": true
     },
     {
       "path": "assets/brand-icon.svg",
       "bytes": 601,
-      "sha256": "3d8352284dcedb8b0553bcdbbfa3531f06d68ca97a6ae94464662eed4024115f"
+      "sha256": "3d8352284dcedb8b0553bcdbbfa3531f06d68ca97a6ae94464662eed4024115f",
+      "active": true
     },
     {
       "path": "assets/brand-logo.svg",
       "bytes": 984,
-      "sha256": "002cf8dbade0f720932e1462c09abf29dafe5ed8298376b19df30fdcecff33b4"
+      "sha256": "002cf8dbade0f720932e1462c09abf29dafe5ed8298376b19df30fdcecff33b4",
+      "active": true
     },
     {
       "path": "assets/og-permission-to-run-v1.png",
       "bytes": 528714,
-      "sha256": "847cca4ca35994e0394414fd2399c2dfb6de150cf31b3dbef63ed6dab8ae02f4"
+      "sha256": "847cca4ca35994e0394414fd2399c2dfb6de150cf31b3dbef63ed6dab8ae02f4",
+      "active": true
     },
     {
       "path": "assets/operator-room-desktop-v1.webp",
       "bytes": 48528,
-      "sha256": "0c1fd325b6fb317316e5dc014fb57f0ff3dbc0ae037c46054a4e0fe054fba9eb"
+      "sha256": "0c1fd325b6fb317316e5dc014fb57f0ff3dbc0ae037c46054a4e0fe054fba9eb",
+      "active": true
     },
     {
       "path": "assets/operator-room-mobile-v1.webp",
       "bytes": 28138,
-      "sha256": "96ee19db86b605d7600176a8fba6a882b532dae8c8ae62f1f85f42fbb60b0796"
+      "sha256": "96ee19db86b605d7600176a8fba6a882b532dae8c8ae62f1f85f42fbb60b0796",
+      "active": true
     },
     {
       "path": "assets/share-permission-to-run-v1.png",
       "bytes": 764386,
-      "sha256": "7f72325d91ab1468ab49188b4b2bb67f5117f63ef19f7fad27c3e4654d2d034f"
+      "sha256": "7f72325d91ab1468ab49188b4b2bb67f5117f63ef19f7fad27c3e4654d2d034f",
+      "active": true
     },
     {
       "path": "audio/operator-permission-to-run-v2.mp3",
       "bytes": 1248044,
-      "sha256": "13ee21e9cbf4aeb39002a8ed1eee61566feda489c1a03140c1b4a18c54d112e0"
+      "sha256": "13ee21e9cbf4aeb39002a8ed1eee61566feda489c1a03140c1b4a18c54d112e0",
+      "active": false
+    },
+    {
+      "path": "audio/operator-permission-to-run-v4.mp3",
+      "bytes": 1649324,
+      "sha256": "bad1338eb62c3ef64d49cc988ad23c9deee5931d178f070bb6ffe2492d2150ad",
+      "active": true
     },
     {
       "path": "content/audio-brief-transcript.txt",
-      "bytes": 1437,
-      "sha256": "60569b32baf1c145b4e6aa11518bafd5086af3b6d98c1504f38b10eb2a21c543"
+      "bytes": 1849,
+      "sha256": "c8ae3d5d89d27fa1bfff5453c925d81f9ba40e95703147ca953834fe8b64f794",
+      "active": true
     },
     {
       "path": "content/audio-production.json",
-      "bytes": 1380,
-      "sha256": "f57a1bb036e91f2f3e86e0ab05658b6072fd8f1d5d6bf4a44d33d9d079c08ef5"
+      "bytes": 1963,
+      "sha256": "fb4c1db629aaa72ab5fd7c6a0e0235330054c48854c98a0b1e256a1660f5e28b",
+      "active": true
     },
     {
       "path": "content/edition-copy.json",
-      "bytes": 13603,
-      "sha256": "97e0db9f73559c0a730d40147fb4bdcb8a1605da0ea0e95141231fe2bcd57704"
+      "bytes": 8096,
+      "sha256": "41ae3e13a764ef185e93da4d3cdde7ac4ed2216119338e4e6b42a3b2251355fc",
+      "active": true
     },
     {
       "path": "content/release.json",
-      "bytes": 813,
-      "sha256": "45ff68c3252103df17933edbf5b64c2693eaa03b5235b906fc3d4bef314abfe3"
+      "bytes": 969,
+      "sha256": "b5cf08abee5f3584e77b37aa9e5f69267858c0ad672bb8357490229af980a04d",
+      "active": true
     },
     {
       "path": "index.html",
-      "bytes": 19719,
-      "sha256": "c3526456b44819766de42f1c5cc0ae9ecff22f9282bb63e655965571ab24d21c"
+      "bytes": 12240,
+      "sha256": "79e2d247653ef39bd3ea724655e194c14a5ef68b6a796856c7016cdc27e9ea1f",
+      "active": true
     },
     {
       "path": "operator.css",
-      "bytes": 1838,
-      "sha256": "eba8ee74896c0472bcf082180fee722ff9b2d8cdf0af360b7ad65e8adadff7d5"
+      "bytes": 2301,
+      "sha256": "ac15d4d9c66874454352239ce3c1273cdfbb816a85065befdb8d4993efc84612",
+      "active": true
     },
     {
       "path": "styles.css",
       "bytes": 23226,
-      "sha256": "aa438078e0e197a1b7a876a4d1d0e34c066c852a7d86058cd7f1d5e778096ea0"
+      "sha256": "aa438078e0e197a1b7a876a4d1d0e34c066c852a7d86058cd7f1d5e778096ea0",
+      "active": true
     }
   ]
 }
