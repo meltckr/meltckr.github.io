@@ -1,5 +1,5 @@
 {
-  "releaseId": "operator-permission-to-run-20261012-v3",
+  "releaseId": "operator-permission-to-run-20261012-v4",
   "files": [
     {
       "path": "assets/audio-player/avc-audio-player.js",
@@ -88,19 +88,19 @@
     {
       "path": "content/release.json",
       "bytes": 969,
-      "sha256": "b5cf08abee5f3584e77b37aa9e5f69267858c0ad672bb8357490229af980a04d",
+      "sha256": "a11b0da2c4dbd40383c40e2395b49a18973cfda449f4046afce1306ba44e24c6",
       "active": true
     },
     {
       "path": "index.html",
       "bytes": 12240,
-      "sha256": "79e2d247653ef39bd3ea724655e194c14a5ef68b6a796856c7016cdc27e9ea1f",
+      "sha256": "76eeafac64b12f5dd24157a89af01979edda4691488aa2669018e2cb0fbeabb6",
       "active": true
     },
     {
       "path": "operator.css",
-      "bytes": 2301,
-      "sha256": "ac15d4d9c66874454352239ce3c1273cdfbb816a85065befdb8d4993efc84612",
+      "bytes": 2337,
+      "sha256": "ffebb7b7650580bfb5d091c59a8cb42447bbfaf0ef452c936e6ab0a3c71581fc",
       "active": true
     },
     {
