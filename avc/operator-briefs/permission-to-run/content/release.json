@@ -1,9 +1,9 @@
 {
   "edition": "AVC Operator Brief \u2014 Permission to Run",
-  "releaseId": "operator-permission-to-run-20261012-art-v2",
+  "releaseId": "operator-permission-to-run-20261012-gm-inset-v1",
   "canonicalUrl": "https://meltckr.github.io/avc/operator-briefs/permission-to-run/",
-  "visibleStamp": "Edition updated \u00b7 Oct 12, 2026 \u00b7 2:47 PM Arizona",
-  "assembledAt": "2026-10-12T21:47:22.521416+00:00",
+  "visibleStamp": "Edition updated \u00b7 Oct 12, 2026 \u00b7 4:29 PM Arizona",
+  "assembledAt": "2026-10-12T16:29:01.505469-07:00",
   "illustrativeScenarios": true,
   "shareArt": {
     "og": "assets/og-permission-to-run-dealership-v2.png",
@@ -36,5 +36,6 @@
     "assets/operator-room-mobile-v1.webp",
     "assets/og-permission-to-run-v1.png",
     "assets/share-permission-to-run-v1.png"
-  ]
+  ],
+  "desktopGMLabelInset": "32px inner image padding; desktop framing only; original assets preserved"
 }

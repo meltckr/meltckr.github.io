@@ -1,5 +1,5 @@
 {
-  "releaseId": "operator-permission-to-run-20261012-art-v2",
+  "releaseId": "operator-permission-to-run-20261012-gm-inset-v1",
   "files": [
     {
       "path": "assets/audio-player/avc-audio-player.js",
@@ -111,20 +111,20 @@
     },
     {
       "path": "content/release.json",
-      "bytes": 1608,
-      "sha256": "8cd634c9236bd7e94779912291c75766a4caf86aa6b9e7d01182b66bacf8ac3a",
+      "bytes": 1715,
+      "sha256": "f88635fb8b0db3f4b5d67ac2ca4bbf1b4c49c75ffe373efb814dfa729880b672",
       "active": true
     },
     {
       "path": "index.html",
-      "bytes": 16091,
-      "sha256": "54f3ca90a4583fd19684f5bbc6a4aeb3d23bc1294a0468b3a0a31e67f04a5e39",
+      "bytes": 16095,
+      "sha256": "be01cb425277dac00a6d0e347b6f3e66adebe38e5bede1035528c9763aa93cf3",
       "active": true
     },
     {
       "path": "operator.css",
-      "bytes": 7459,
-      "sha256": "452197cdc563a0d399fb8a4660a3beba27e6f7e676a6809dfd166683a8bb0d76",
+      "bytes": 7540,
+      "sha256": "197872941595f90f825d83c53dba0fa4f153b84794bde515f6454c703f2d070b",
       "active": true
     },
     {
