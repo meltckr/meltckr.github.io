@@ -1,0 +1,21 @@
+{
+  "edition": "AVC Operator Brief \u2014 Permission to Run",
+  "releaseId": "operator-permission-to-run-20261012-v1",
+  "canonicalUrl": "https://meltckr.github.io/avc/operator-briefs/permission-to-run/",
+  "visibleStamp": "Edition updated \u00b7 Oct 12, 2026 \u00b7 11:17 AM Arizona",
+  "assembledAt": "2026-10-12T18:17:12.484274+00:00",
+  "illustrativeScenarios": true,
+  "shareArt": {
+    "og": "assets/og-permission-to-run-v1.png",
+    "square": "assets/share-permission-to-run-v1.png",
+    "layoutTool": "Figma",
+    "renderTool": "Blender"
+  },
+  "audio": {
+    "file": "audio/operator-permission-to-run-v2.mp3",
+    "transcript": "content/audio-brief-transcript.txt",
+    "productionRecord": "content/audio-production.json",
+    "humanListeningApprovalClaimed": false
+  },
+  "readTimeEstimateMinutes": 7
+}

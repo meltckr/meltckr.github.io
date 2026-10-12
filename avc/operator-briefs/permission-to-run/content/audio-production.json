@@ -1,0 +1,40 @@
+{
+  "version": "operator-permission-to-run-v2",
+  "verifiedAt": "2026-10-12T18:15:44.742310+00:00",
+  "provider": "Local MLX / Qwen3-TTS",
+  "ttsModel": "mlx-community/Qwen3-TTS-12Hz-1.7B-Base-8bit",
+  "sttModel": "mlx-community/whisper-large-v3-turbo",
+  "paidApiCalls": 0,
+  "audioSha256": "13ee21e9cbf4aeb39002a8ed1eee61566feda489c1a03140c1b4a18c54d112e0",
+  "transcriptSha256": "60569b32baf1c145b4e6aa11518bafd5086af3b6d98c1504f38b10eb2a21c543",
+  "durationSeconds": 62.315375,
+  "bytes": 1248044,
+  "codec": "mp3",
+  "sampleRate": 24000,
+  "channels": 1,
+  "bitrate": 160000,
+  "xingCompatibleMetadata": "Info",
+  "measuredIntegratedLUFS": -16.63,
+  "loudnessMeasurementUsesDualMono": true,
+  "measuredTruePeakDBTP": -1.9,
+  "silenceScan": {
+    "thresholdDB": -50,
+    "minimumSeconds": 0.3,
+    "holes": 0
+  },
+  "digitalHoleScan": {
+    "threshold16bitAmplitude": 4,
+    "minimumSeconds": 0.28,
+    "longestBelowThresholdSeconds": 0.09820833333333333,
+    "holes": 0
+  },
+  "scriptComparison": {
+    "expectedWords": 239,
+    "actualWords": 239,
+    "alignmentRatio": 1.0,
+    "differences": []
+  },
+  "perceptualListeningPerformed": false,
+  "humanListeningApprovalClaimed": false,
+  "listeningApproval": "Open \u2014 this execution environment cannot receive audio input. Automated transcript and signal checks do not establish voice quality, pacing, or naturalness."
+}

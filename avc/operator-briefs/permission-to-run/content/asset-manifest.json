@@ -1,0 +1,90 @@
+{
+  "releaseId": "operator-permission-to-run-20261012-v1",
+  "files": [
+    {
+      "path": "assets/audio-player/mel-audio-player.js",
+      "bytes": 15739,
+      "sha256": "14644aeeab42d18917aa155c5511ba4ec7db56bafc039c748cda14ca15fa86ac"
+    },
+    {
+      "path": "assets/audio-player/player-utils.mjs",
+      "bytes": 748,
+      "sha256": "fbf4d7ddfdcb301341564811dc1ad16847b03e7374e2de52389b2b181e01666e"
+    },
+    {
+      "path": "assets/brand-footer.svg",
+      "bytes": 601,
+      "sha256": "f4c2ec7d7b34bfbe12e17d9436d452abea279e1b617d9d6ba49ecfaea0080c5c"
+    },
+    {
+      "path": "assets/brand-icon.svg",
+      "bytes": 601,
+      "sha256": "3d8352284dcedb8b0553bcdbbfa3531f06d68ca97a6ae94464662eed4024115f"
+    },
+    {
+      "path": "assets/brand-logo.svg",
+      "bytes": 984,
+      "sha256": "002cf8dbade0f720932e1462c09abf29dafe5ed8298376b19df30fdcecff33b4"
+    },
+    {
+      "path": "assets/og-permission-to-run-v1.png",
+      "bytes": 528714,
+      "sha256": "847cca4ca35994e0394414fd2399c2dfb6de150cf31b3dbef63ed6dab8ae02f4"
+    },
+    {
+      "path": "assets/operator-room-desktop-v1.webp",
+      "bytes": 48528,
+      "sha256": "0c1fd325b6fb317316e5dc014fb57f0ff3dbc0ae037c46054a4e0fe054fba9eb"
+    },
+    {
+      "path": "assets/operator-room-mobile-v1.webp",
+      "bytes": 28138,
+      "sha256": "96ee19db86b605d7600176a8fba6a882b532dae8c8ae62f1f85f42fbb60b0796"
+    },
+    {
+      "path": "assets/share-permission-to-run-v1.png",
+      "bytes": 764386,
+      "sha256": "7f72325d91ab1468ab49188b4b2bb67f5117f63ef19f7fad27c3e4654d2d034f"
+    },
+    {
+      "path": "audio/operator-permission-to-run-v2.mp3",
+      "bytes": 1248044,
+      "sha256": "13ee21e9cbf4aeb39002a8ed1eee61566feda489c1a03140c1b4a18c54d112e0"
+    },
+    {
+      "path": "content/audio-brief-transcript.txt",
+      "bytes": 1437,
+      "sha256": "60569b32baf1c145b4e6aa11518bafd5086af3b6d98c1504f38b10eb2a21c543"
+    },
+    {
+      "path": "content/audio-production.json",
+      "bytes": 1380,
+      "sha256": "f57a1bb036e91f2f3e86e0ab05658b6072fd8f1d5d6bf4a44d33d9d079c08ef5"
+    },
+    {
+      "path": "content/edition-copy.json",
+      "bytes": 13603,
+      "sha256": "97e0db9f73559c0a730d40147fb4bdcb8a1605da0ea0e95141231fe2bcd57704"
+    },
+    {
+      "path": "content/release.json",
+      "bytes": 813,
+      "sha256": "e617eb819120d75de114787a15d086ec471076571c0b8afc1aab8635ac9cf45a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 19719,
+      "sha256": "b4eb620176e6f644fe20b85b50e1f9c9aac3dec21185c37846c8310ae593b963"
+    },
+    {
+      "path": "operator.css",
+      "bytes": 1838,
+      "sha256": "02e854506cefe8a8b86d2051856e408a9bed149044f4382084b45d6f97bb6f8a"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 23226,
+      "sha256": "aa438078e0e197a1b7a876a4d1d0e34c066c852a7d86058cd7f1d5e778096ea0"
+    }
+  ]
+}
