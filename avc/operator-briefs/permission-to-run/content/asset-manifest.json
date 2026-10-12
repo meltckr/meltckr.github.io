@@ -1,10 +1,10 @@
 {
-  "releaseId": "operator-permission-to-run-20261012-v1",
+  "releaseId": "operator-permission-to-run-20261012-v2",
   "files": [
     {
-      "path": "assets/audio-player/mel-audio-player.js",
-      "bytes": 15739,
-      "sha256": "14644aeeab42d18917aa155c5511ba4ec7db56bafc039c748cda14ca15fa86ac"
+      "path": "assets/audio-player/avc-audio-player.js",
+      "bytes": 15709,
+      "sha256": "f7d8a9cb0acf271241b4c9ee55683e88bf0f2e25503a4e7a2655537d6e440c16"
     },
     {
       "path": "assets/audio-player/player-utils.mjs",
@@ -69,17 +69,17 @@
     {
       "path": "content/release.json",
       "bytes": 813,
-      "sha256": "e617eb819120d75de114787a15d086ec471076571c0b8afc1aab8635ac9cf45a"
+      "sha256": "45ff68c3252103df17933edbf5b64c2693eaa03b5235b906fc3d4bef314abfe3"
     },
     {
       "path": "index.html",
       "bytes": 19719,
-      "sha256": "b4eb620176e6f644fe20b85b50e1f9c9aac3dec21185c37846c8310ae593b963"
+      "sha256": "c3526456b44819766de42f1c5cc0ae9ecff22f9282bb63e655965571ab24d21c"
     },
     {
       "path": "operator.css",
       "bytes": 1838,
-      "sha256": "02e854506cefe8a8b86d2051856e408a9bed149044f4382084b45d6f97bb6f8a"
+      "sha256": "eba8ee74896c0472bcf082180fee722ff9b2d8cdf0af360b7ad65e8adadff7d5"
     },
     {
       "path": "styles.css",
