@@ -1,0 +1,43 @@
+{
+  "edition": "AVC Operator Brief \u2014 Comfortable Being Uncomfortable",
+  "releaseId": "operator-comfortable-being-uncomfortable-20261013-v1",
+  "canonicalUrl": "https://meltckr.github.io/avc/operator-briefs/comfortable-being-uncomfortable/",
+  "visibleStamp": "Edition updated \u00b7 Oct 13, 2026 \u00b7 11:44 AM Arizona",
+  "assembledAt": "2026-10-13T11:44:50.474776-07:00",
+  "illustrativeScenarios": true,
+  "sourceEditionUrl": "https://meltckr.github.io/the-standard/issues/004-comfortable-being-uncomfortable/",
+  "shareArt": {
+    "og": "assets/og-comfortable-being-uncomfortable-v1.png",
+    "square": "assets/share-comfortable-being-uncomfortable-v1.png",
+    "layoutTool": "Figma",
+    "renderTool": "Blender"
+  },
+  "audio": {
+    "file": "audio/operator-comfortable-being-uncomfortable-arizona-v12-v1.mp3",
+    "transcript": "content/audio-brief-transcript.txt",
+    "productionRecord": "content/audio-production.json",
+    "humanListeningApprovalClaimed": false
+  },
+  "readTimeEstimateMinutes": 4,
+  "artwork": {
+    "heroDesktop": "assets/dealership-desktop-v1.webp",
+    "heroMobile": "assets/dealership-mobile-v1.webp",
+    "scene": "Approved original illustrative dealership render; no actual store depicted",
+    "renderer": "Existing Blender Cycles render reused",
+    "layoutReusedFrom": "AVC Operator Brief \u2014 Permission to Run"
+  },
+  "scenarioMath": {
+    "sellingDays": 20,
+    "targetDeliveries": 120,
+    "elapsedSellingDays": 10,
+    "actualDeliveries": 48,
+    "evenPaceAtHalfway": 60,
+    "shortfall": 12,
+    "remainingDeliveries": 72,
+    "remainingSellingDays": 10,
+    "requiredDailyPace": 7.2,
+    "firstHalfDailyPace": 4.8,
+    "recordsReviewed": 10,
+    "missingNextStepRecords": 6
+  }
+}

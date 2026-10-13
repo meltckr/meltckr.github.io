@@ -1,0 +1,117 @@
+{
+  "title": "Comfortable Being Uncomfortable",
+  "description": "A dealership leadership brief on hard conversations, slow months and change, with one clearly labeled hypothetical and a practical way to rehearse and check improvement.",
+  "dek": "Have the conversation a slow month makes easy to postpone. Name the gap, practice the next move, and see whether it carries onto the floor.",
+  "glance": [
+    [
+      "Pace",
+      "12 behind",
+      "Assumed halfway shortfall."
+    ],
+    [
+      "Remaining",
+      "72 in 10 days",
+      "Invented delivery target."
+    ],
+    [
+      "Practice",
+      "One clear next step",
+      "Rehearse an unsold visit."
+    ],
+    [
+      "Return",
+      "Check a fresh attempt",
+      "With less help."
+    ]
+  ],
+  "ownership": {
+    "title": "The difficult conversation gives the work somewhere to go.",
+    "paragraphs": [
+      "A slow month can fill a manager’s day with familiar work: another price discussion, another inventory walk, another meeting about the number. The follow-up conversation with an experienced salesperson is still waiting.",
+      "Experience earns trust. It also makes admitting a gap feel costly. A useful GM makes the gap specific, stays respectful, and gives the person a place to work on it. The next customer should benefit from what the team learns."
+    ]
+  },
+  "scenario": {
+    "title": "Halfway through a hypothetical month",
+    "label": "Worked hypothetical · Every event and figure is invented",
+    "paragraphs": [
+      "Assume one rooftop has 20 selling days and a target of 120 retail deliveries. After 10 selling days, it has delivered 48. An even pace would put it at 60, so it is 12 deliveries behind.",
+      "There are 72 deliveries left to reach the target, with 10 selling days remaining. That requires an average of 7.2 deliveries per day. The first half averaged 4.8. Those figures describe the pace the target requires; they do not predict what the store will sell.",
+      "The GM sits with the desk manager and reviews 10 unsold-visit records from this invented store. Six have no agreed next step. The sample gives them a specific conversation to work on. Traffic, available inventory and financing outcomes still need separate examination."
+    ]
+  },
+  "conversation": {
+    "title": "Show the record before judging the person",
+    "paragraphs": [
+      "The desk manager has years of experience and usually remembers whom to call. The GM asks to see how an unsold visit ends. The aim is a clear agreement the next person can understand, including a customer’s decision to decline further contact.",
+      "A vague demand to show more urgency leaves the manager to guess what needs changing. The records let the GM ask for a concrete behavior and offer help practicing it."
+    ]
+  },
+  "script": [
+    "We are 12 deliveries behind the halfway pace. In six of these 10 records, I cannot see what we agreed to do next.",
+    "Show me how you close an unsold visit. Let’s practice one clear next-step question together, then check a fresh record after your next conversation."
+  ],
+  "roles": [
+    [
+      "GM",
+      "Name the observable gap. Ask what made it difficult. Rehearse the conversation with the desk manager and make room for a correction to your own approach."
+    ],
+    [
+      "Desk manager",
+      "Work through one unsold-visit example with the salesperson. Give one usable correction, then ask for another attempt while the feedback is fresh."
+    ],
+    [
+      "Sales floor",
+      "Ask what the customer wants to do next. Record the agreed action and time accurately. Record a declined next step plainly; a filled field should reflect a real conversation."
+    ],
+    [
+      "Across rooftops",
+      "Share a clear example another store can practice. Let its GM explain the local obstacle before importing the same response. Keep each store’s pace and conditions visible."
+    ]
+  ],
+  "change": {
+    "title": "A process change can expose a learning gap",
+    "paragraphs": [
+      "Suppose the same store moves its follow-up work into one shared list. An experienced manager may know the customers well and still need help using the new fields. Ask where the process becomes unclear. Walk through a practice record together before expecting someone to use it independently.",
+      "The GM has work to do here too. If the field is confusing or the handoff adds an unnecessary step, hear the explanation before defending the rollout. A clear standard and a workable process make the next attempt more useful.",
+      "Give a newer employee a smaller case and more help. Give an experienced employee a less familiar customer response to work through. Keep rehearsal out of the customer’s live negotiation, and keep correction respectful. Public embarrassment makes confusion harder to surface."
+    ]
+  },
+  "measures": [
+    [
+      "Conversation",
+      "Can the person make the ask clearly?",
+      "After a rehearsal, check a fresh unsold-visit record and ask the salesperson to explain what the customer agreed to."
+    ],
+    [
+      "Result",
+      "Keep the delivery pace visible.",
+      "Report actual deliveries against the store’s target. A clearer record is one improvement to examine; the volume result has other inputs."
+    ]
+  ],
+  "watch": {
+    "title": "Come back after the rehearsal",
+    "paragraphs": [
+      "At the next desk review, look at a new visit handled with less prompting. If the agreement is still unclear, ask where the conversation broke down and adjust the practice. One polished rehearsal can leave the real difficulty untouched.",
+      "Bring one useful example and one unresolved obstacle to the next GM conversation across rooftops. Let the team see that an experienced leader can accept a correction, make another attempt, and keep the operating standard in place."
+    ]
+  },
+  "sourceUrl": "https://meltckr.github.io/the-standard/issues/004-comfortable-being-uncomfortable/",
+  "sourceTitle": "The Standard 004 · Comfortable Being Uncomfortable",
+  "basis": "Adapted for dealership leadership from The Standard 004. The dealership, events, record sample, delivery figures and targets are invented for this worked hypothetical. No actual store results or industry statistics are presented.",
+  "transcript": "Comfortable being uncomfortable starts with the conversation a slow month makes easy to postpone.\n\nIn this worked dealership example, every number is invented. A store has twenty selling days and a target of one hundred twenty deliveries. After ten days, it has delivered forty eight. That is twelve behind an even pace. Seventy two deliveries remain, requiring seven point two a day over the last ten days. The first half averaged four point eight.\n\nThe general manager and desk manager review ten unsold-visit records. Six have no agreed next step. That small review gives them a place to practice. Traffic, inventory and financing still need their own examination.\n\nThe general manager can say, we are twelve behind the pace. In six of these ten records, I cannot see what we agreed to do next. Show me how you close an unsold visit. I will practice the conversation with you.\n\nThe desk manager rehearses one clear question, gets a correction, and tries again. The salesperson records the action and time the customer actually agrees to. If the customer declines, the record says so.\n\nWhen a new follow-up process is confusing, the manager needs to hear that too. Choose a small practice case, explain the field, and let the person make another attempt.\n\nLater, check a fresh visit with less help. Look for a clearer conversation and an accurate record. Keep reporting the delivery pace separately.\n\nAn experienced team can keep its standards and make room to learn. Start with one conversation you can improve, then see what changes on the floor.",
+  "scenarioMath": {
+    "sellingDays": 20,
+    "targetDeliveries": 120,
+    "elapsedSellingDays": 10,
+    "actualDeliveries": 48,
+    "evenPaceAtHalfway": 60,
+    "shortfall": 12,
+    "remainingDeliveries": 72,
+    "remainingSellingDays": 10,
+    "requiredDailyPace": 7.2,
+    "firstHalfDailyPace": 4.8,
+    "recordsReviewed": 10,
+    "missingNextStepRecords": 6
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "releaseId": "operator-comfortable-being-uncomfortable-20261013-v1",
+  "files": [
+    {
+      "path": "assets/audio-player/avc-audio-player.js",
+      "bytes": 15709,
+      "sha256": "f7d8a9cb0acf271241b4c9ee55683e88bf0f2e25503a4e7a2655537d6e440c16",
+      "active": true
+    },
+    {
+      "path": "assets/audio-player/player-utils.mjs",
+      "bytes": 748,
+      "sha256": "fbf4d7ddfdcb301341564811dc1ad16847b03e7374e2de52389b2b181e01666e",
+      "active": true
+    },
+    {
+      "path": "assets/brand-footer.svg",
+      "bytes": 601,
+      "sha256": "f4c2ec7d7b34bfbe12e17d9436d452abea279e1b617d9d6ba49ecfaea0080c5c",
+      "active": true
+    },
+    {
+      "path": "assets/brand-icon.svg",
+      "bytes": 601,
+      "sha256": "3d8352284dcedb8b0553bcdbbfa3531f06d68ca97a6ae94464662eed4024115f",
+      "active": true
+    },
+    {
+      "path": "assets/brand-logo.svg",
+      "bytes": 984,
+      "sha256": "002cf8dbade0f720932e1462c09abf29dafe5ed8298376b19df30fdcecff33b4",
+      "active": true
+    },
+    {
+      "path": "assets/dealership-desktop-v1.webp",
+      "bytes": 64506,
+      "sha256": "3f02d0ec143c083893db6bee7ca90e83077b1ff2dc7fa036bb181441ddddbe32",
+      "active": true
+    },
+    {
+      "path": "assets/dealership-mobile-v1.webp",
+      "bytes": 50782,
+      "sha256": "ac68ce9067298c45f409514ac7a5c2bb0641dd22cb4c3fe8667465b1e406aed2",
+      "active": true
+    },
+    {
+      "path": "assets/og-comfortable-being-uncomfortable-v1.png",
+      "bytes": 586605,
+      "sha256": "c41e7012cfffee593c70ada1c86017e67e44863679f0ca680b2e081057ef6575",
+      "active": true
+    },
+    {
+      "path": "assets/share-comfortable-being-uncomfortable-v1.png",
+      "bytes": 801908,
+      "sha256": "f0e872db34f8fedd932294876657ccb64afceba2bf8da44fe65bc7c9b4d9908f",
+      "active": true
+    },
+    {
+      "path": "audio/operator-comfortable-being-uncomfortable-arizona-v12-v1.mp3",
+      "bytes": 1440524,
+      "sha256": "ad39a42fa7061d39f6fca0349f7b4e4470d47b5b3591da45f99576628ee7e6f2",
+      "active": true
+    },
+    {
+      "path": "content/audio-brief-transcript.txt",
+      "bytes": 1551,
+      "sha256": "2f35c52b573af7512b6fe189e787e651f77bcef498698ba604d5f403e8452d4a",
+      "active": true
+    },
+    {
+      "path": "content/audio-production.json",
+      "bytes": 1720,
+      "sha256": "f08b0042f9cfc0e54e1182c19fa2b95e4d3c2752a7cc10d7fe65d53d66d487fd",
+      "active": true
+    },
+    {
+      "path": "content/edition-copy.json",
+      "bytes": 8232,
+      "sha256": "bf1372220fe5f004c062ecd0e43f70c49213a80e58326e5413783ae032a85264",
+      "active": true
+    },
+    {
+      "path": "content/release.json",
+      "bytes": 1733,
+      "sha256": "58d7bd7e1014070a8a7573f8df5558e5c9ae9a0509a34ac364d843523ad82606",
+      "active": true
+    },
+    {
+      "path": "index.html",
+      "bytes": 14962,
+      "sha256": "15b663afed97b05e31ff682116b7bff63be773b0d1602f722a7d4e1889553fbf",
+      "active": true
+    },
+    {
+      "path": "operator.css",
+      "bytes": 8442,
+      "sha256": "35fd83f1e0343299c5accc80da3165025c0a4208ce27bf4ac0125171c7d3db43",
+      "active": true
+    },
+    {
+      "path": "styles.css",
+      "bytes": 23226,
+      "sha256": "aa438078e0e197a1b7a876a4d1d0e34c066c852a7d86058cd7f1d5e778096ea0",
+      "active": true
+    }
+  ]
+}
