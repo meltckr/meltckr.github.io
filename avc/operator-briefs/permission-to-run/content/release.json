@@ -1,13 +1,13 @@
 {
   "edition": "AVC Operator Brief \u2014 Permission to Run",
-  "releaseId": "operator-permission-to-run-20261012-gm-inset-v1",
+  "releaseId": "operator-permission-to-run-20261012-real-car-mobile-v3",
   "canonicalUrl": "https://meltckr.github.io/avc/operator-briefs/permission-to-run/",
-  "visibleStamp": "Edition updated \u00b7 Oct 12, 2026 \u00b7 4:29 PM Arizona",
-  "assembledAt": "2026-10-12T16:29:01.505469-07:00",
+  "visibleStamp": "Edition updated \u00b7 Oct 12, 2026 \u00b7 5:05 PM Arizona",
+  "assembledAt": "2026-10-12T17:05:13.440700-07:00",
   "illustrativeScenarios": true,
   "shareArt": {
-    "og": "assets/og-permission-to-run-dealership-v2.png",
-    "square": "assets/share-permission-to-run-dealership-v2.png",
+    "og": "assets/og-permission-to-run-dealership-v3.png",
+    "square": "assets/share-permission-to-run-dealership-v3.png",
     "layoutTool": "Figma",
     "renderTool": "Blender"
   },
@@ -24,10 +24,10 @@
     "audio/operator-permission-to-run-v2.mp3"
   ],
   "artwork": {
-    "heroDesktop": "assets/dealership-showroom-desktop-v2.webp",
-    "heroMobile": "assets/dealership-showroom-mobile-v2.webp",
+    "heroDesktop": "assets/dealership-showroom-desktop-v3.webp",
+    "heroMobile": "assets/dealership-showroom-mobile-v3.webp",
     "scene": "Original illustrative 3D dealership; no real location or stock vehicle model",
-    "renderer": "Blender 5.2.2 LTS / Cycles CPU / 64 samples",
+    "renderer": "Blender 5.2.2 LTS / Cycles CPU / 96 samples",
     "diagrams": "Accessible HTML/CSS with decorative SVG icons",
     "scenarioPreserved": true
   },
@@ -35,7 +35,11 @@
     "assets/operator-room-desktop-v1.webp",
     "assets/operator-room-mobile-v1.webp",
     "assets/og-permission-to-run-v1.png",
-    "assets/share-permission-to-run-v1.png"
+    "assets/share-permission-to-run-v1.png",
+    "assets/dealership-showroom-desktop-v2.webp",
+    "assets/dealership-showroom-mobile-v2.webp",
+    "assets/og-permission-to-run-dealership-v2.png",
+    "assets/share-permission-to-run-dealership-v2.png"
   ],
   "desktopGMLabelInset": "32px inner image padding; desktop framing only; original assets preserved"
 }
