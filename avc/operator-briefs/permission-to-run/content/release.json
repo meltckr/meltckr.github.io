@@ -1,13 +1,13 @@
 {
   "edition": "AVC Operator Brief \u2014 Permission to Run",
-  "releaseId": "operator-permission-to-run-20261012-real-car-mobile-v3",
+  "releaseId": "operator-permission-to-run-20261012-professional-share-v4",
   "canonicalUrl": "https://meltckr.github.io/avc/operator-briefs/permission-to-run/",
-  "visibleStamp": "Edition updated \u00b7 Oct 12, 2026 \u00b7 5:05 PM Arizona",
-  "assembledAt": "2026-10-12T17:05:13.440700-07:00",
+  "visibleStamp": "Edition updated \u00b7 Oct 12, 2026 \u00b7 5:31 PM Arizona",
+  "assembledAt": "2026-10-12T17:31:36.738874-07:00",
   "illustrativeScenarios": true,
   "shareArt": {
-    "og": "assets/og-permission-to-run-dealership-v3.png",
-    "square": "assets/share-permission-to-run-dealership-v3.png",
+    "og": "assets/og-permission-to-run-professional-v4.png",
+    "square": "assets/share-permission-to-run-professional-v4.png",
     "layoutTool": "Figma",
     "renderTool": "Blender"
   },
@@ -39,7 +39,9 @@
     "assets/dealership-showroom-desktop-v2.webp",
     "assets/dealership-showroom-mobile-v2.webp",
     "assets/og-permission-to-run-dealership-v2.png",
-    "assets/share-permission-to-run-dealership-v2.png"
+    "assets/share-permission-to-run-dealership-v2.png",
+    "assets/og-permission-to-run-dealership-v3.png",
+    "assets/share-permission-to-run-dealership-v3.png"
   ],
   "desktopGMLabelInset": "32px inner image padding; desktop framing only; original assets preserved"
 }

@@ -1,5 +1,5 @@
 {
-  "releaseId": "operator-permission-to-run-20261012-real-car-mobile-v3",
+  "releaseId": "operator-permission-to-run-20261012-professional-share-v4",
   "files": [
     {
       "path": "assets/audio-player/avc-audio-player.js",
@@ -65,6 +65,12 @@
       "path": "assets/og-permission-to-run-dealership-v3.png",
       "bytes": 545766,
       "sha256": "1f6f4799bb8d4ac105e73c2663e85d597116f1e2526d7fe95b1efb568092832e",
+      "active": false
+    },
+    {
+      "path": "assets/og-permission-to-run-professional-v4.png",
+      "bytes": 577178,
+      "sha256": "c5d9d919b7bc1b3649139ea8a7bbc181f36c67f5e05ff06f461aa0f9298a8dfb",
       "active": true
     },
     {
@@ -95,6 +101,12 @@
       "path": "assets/share-permission-to-run-dealership-v3.png",
       "bytes": 779404,
       "sha256": "ccf3c619cb8c511e3ebb3d878cae1470b37e86892ea64a44a31067bff68c5350",
+      "active": false
+    },
+    {
+      "path": "assets/share-permission-to-run-professional-v4.png",
+      "bytes": 793414,
+      "sha256": "a2de3657d36fcce26071fd8378e6cc27e2fbf5ac25a03314197d85dd46514f29",
       "active": true
     },
     {
@@ -135,14 +147,14 @@
     },
     {
       "path": "content/release.json",
-      "bytes": 1930,
-      "sha256": "c863aa2593c0a40bafbc848717415a674cb0b662030e2a99a68e037660d5f589",
+      "bytes": 2046,
+      "sha256": "f66314aec653f01e6fcefeb225f65e427c47b63bb9c5271ea25a45fb30dd691e",
       "active": true
     },
     {
       "path": "index.html",
-      "bytes": 16109,
-      "sha256": "ad2e681db4732972eb186410eb2d980f64f141d0e75e509b47723bdb98801068",
+      "bytes": 16117,
+      "sha256": "81079802c01546c378fdfa8ebab5fd360477d7ce08d0cf35a4818524c995beed",
       "active": true
     },
     {
